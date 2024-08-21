@@ -1,4 +1,4 @@
-# YouTube Clone
+# YouTube Clone 🚀
 
 This project is a clone of the popular video-sharing platform YouTube. It is built using modern front-end technologies, including React, Redux Toolkit, TailwindCSS, and other libraries.
 
